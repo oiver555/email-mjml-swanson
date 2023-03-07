@@ -1,0 +1,266 @@
+<mjml>
+  <mj-body background-color="white" width="600px">
+    <mj-section padding-bottom="0">
+      <mj-column padding-bottom="0px">
+        <mj-text padding-bottom="0px" align="left">
+          <a href="#" style="color:black;text-decoration: none;  border-bottom: 1px solid blue;margin:0px;padding:0px">Plus up to 40% off sitewide</a>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="right">
+          <a href="#" style="text-decoration:none;color:#00833d">View Online</a> <span style="font-size:12px;color:#00833d">|</span>
+          <a href="#" style="text-decoration:none;color:#00833d">My Account</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column padding-top="0px">
+        <mj-image width="225px" src="https://i.imgur.com/VgfxE60.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column padding="0" padding-bottom="0">
+        <mj-text align="center" padding-bottom="0">
+          <a href="#" style="text-decoration:none;font-size:14px;color:#00833d">Heart</a>
+          <span style="font-size:12px;color:#00833d;padding:5px">|</span>
+          <a href="#" style="text-decoration:none;font-size:14px;color:#00833d">Immune</a>
+          <span style="font-size:12px;color:#00833d;padding:5px">|</span>
+          <a href="#" style="text-decoration:none;font-size:14px;color:#00833d">Blood Surgar</a>
+          <span style="font-size:12px;color:#00833d;padding:5px">|</span>
+          <a href="#" style="text-decoration:none;font-size:14px;color:#00833d">Multivitains</a>
+          <span style="font-size:12px;color:#00833d;padding:5px">|</span>
+          <a href="#" style="text-decoration:none;font-size:14px;color:#00833d">CoQ10</a>
+          <span style="font-size:12px;color:#00833d;padding:5px">|</span>
+          <a href="#" style="text-decoration:none;font-size:14px;color:#00833d">Protein</a>
+        </mj-text>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column padding-top="0">
+        <mj-image padding-bottom="0" src="https://i.imgur.com/OygPUGz.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column padding-top="0">
+        <mj-image padding-top="0" src="https://i.imgur.com/QrFOrqc.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="0" src="https://i.imgur.com/bl3NTlI.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="10px">
+      <mj-column width="480px" padding-top="0" background-color="#00833d">
+        <mj-text color="white" font-weight="500" align="center" font-size="18px">
+          Promo Code: SWANZ40H
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-top="0" padding-bottom="10px">
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="0" src="https://i.imgur.com/j5Gc4g4.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column padding-top="0" padding-bottom="0">
+
+        <mj-image padding-top="0" padding-bottom="10px" src="https://i.imgur.com/MX35k92.png" alt="" />
+        <mj-text font-weight="700" font-size="16px" align="center">
+
+          <a href="#" style="color:#d85614">SHOP NOW</a>
+        </mj-text>
+      </mj-column>
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="10px" src="https://i.imgur.com/aYVU6tV.png" alt="" />
+        <mj-text color="#d85614" font-weight="700" font-size="16px" align="center">
+          <a href="#" style="color:#d85614">SHOP NOW</a>
+        </mj-text>
+      </mj-column>
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="10px" src="https://i.imgur.com/jYuuaOe.png" alt="" />
+        <mj-text color="#d85614" font-weight="700" font-size="16px" align="center">
+          <a href="#" style="color:#d85614">SHOP NOW</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-top="0" padding-bottom="10px">
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="0" src="https://i.imgur.com/oMglAZA.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="10px">
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="0" src="https://i.imgur.com/UquBxhf.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-top="0" padding-bottom="10px">
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="0" src="https://i.imgur.com/2EziTrT.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-top="0" padding-bottom="10px">
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="0" src="https://i.imgur.com/JQbpuFF.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-top="0" padding-bottom="10px">
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="0" src="https://i.imgur.com/wXisdvN.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="10px">
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="0" src="https://i.imgur.com/fpBoj9R.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-top="0" padding-bottom="10px">
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="0" src="https://i.imgur.com/LQT3N6a.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="10px">
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="0" src="https://i.imgur.com/Y2yKNYq.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column padding-top="0" padding-bottom="0">
+
+        <mj-image padding-top="0" padding-bottom="10px" src="https://i.imgur.com/mR92hv4.png" alt="" />
+        <mj-text font-weight="700" font-size="16px" align="center">
+
+          <a href="#" style="color:#d85614">SHOP NOW</a>
+        </mj-text>
+      </mj-column>
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="10px" src="https://i.imgur.com/hBpxVdh.png" alt="" />
+        <mj-text color="#d85614" font-weight="700" font-size="16px" align="center">
+          <a href="#" style="color:#d85614">SHOP NOW</a>
+        </mj-text>
+      </mj-column>
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="10px" src="https://i.imgur.com/KpVnufa.png" alt="" />
+        <mj-text color="#d85614" font-weight="700" font-size="16px" align="center">
+          <a href="#" style="color:#d85614">SHOP NOW</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text padding-bottom="0" align="center" font-weight="500" color="#00833d" font-size="16px">
+          Want to keep learning? Follow us on social.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0"  padding-left="200px" padding-right="200px">
+      <mj-column padding="0">
+        <mj-image width="35px" padding="0" src="https://i.imgur.com/fC6kAAT.png" alt="" />
+      </mj-column>
+
+      <mj-column padding="0">
+        <mj-image width="35px" padding="0"  src="https://i.imgur.com/tqa1jIh.png" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="35px" padding="0" src="https://i.imgur.com/8TSuhIF.png" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="35px" padding="0" src="https://i.imgur.com/zrj1L2B.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="10px">
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-image padding-top="0" padding-bottom="0" src="https://i.imgur.com/TtJ4G1s.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0">
+      <mj-column padding="0px">
+        <mj-text align="center" padding="0">
+          Offer expires 11:59 PM CST Tuesday, February 28, 2023
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0">
+      <mj-column padding-bottom="0">
+        <mj-text font-weight="500" align="center" padding="0">
+          Call to order: 1-866-921-0037
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0">
+      <mj-column padding="0">
+        <mj-text padding-top="0" padding-bottom="0">Please do not reply to this message as this email inbox is not monitored. If you have any questions, please call 800-824-4491.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding-top="0" padding-bottom="0">
+        <mj-text padding-top="0" padding-bottom="0">*Promotional offer is available to US and Canada residents only. Order total must meet or exceed the qualifying threshold before shipping and taxes. Shipping may be subject to exclusions and a surcharge. Gift certificate purchases, charitable donations, and select Swanson/National items are excluded. Limit one offer per order. Pricing, availability, and expiration are subject to change and other restrictions may apply. Promotional offers may not be applied to items already marked down (Facebook promos, buy-one-get-one-free (BOGO) offers, Deal of the Day discounts, etc.). Please allow extra processing time for international orders which qualify for free gifts to ensure compliance with customs. Shipment of CBD products is available to US residents only. Swanson offers a full refund for products 30 days from date of purchase. See site for full <a style="color:#00833d; text-decoration:underline">promo details</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column padding-top="0">
+        <mj-text padding-top="0" padding-bottom="0">†Enter the promo code in the "Promo/Source Code" box in the shopping cart screen before checkout.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0">
+      <mj-column padding-top="0">
+        <mj-text padding-top="0" padding-bottom="0">By signing up via text, you agree to receive recurring automated promotional and personalized marketing text messages (e.g. cart reminders) from Swanson Health at the cell number used when signing up. Consent is not a condition of any purchase. Reply HELP for help and STOP to cancel. Msg frequency varies. Msg and data rates may apply. View <a href="#" style="color:#00833d; text-decoration:underline">Terms</a> & <a href="#" style="color:#00833d; text-decoration:underline">Privacy</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="0">
+      <mj-column padding-top="0">
+        <mj-text padding-top="0" padding-bottom="0">This shopping alert was sent as a special courtesy to <a href="#">osaintilien55@gmail.com</a>, the address provided during checkout or at time of subscription.
+          <br>
+          If you prefer not to receive future alerts, please <a href="#" style="color:#00833d; text-decoration:underline">let us know.</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="50px">
+      <mj-column padding-top="0">
+        <mj-text padding-top="0" padding-bottom="0">Swanson Health Products • <a href="#">4075 40th Ave S • Fargo, ND, 58104, US</a>
+          <br>
+          ©2023 Swanson Health Products. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
